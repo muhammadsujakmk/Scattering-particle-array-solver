@@ -26,6 +26,8 @@ with st.expander("Model scope and numerical caution", expanded=True):
         The direct lattice sum is truncated and exponentially regularized by \(k \rightarrow k(1+i\gamma)\).
         Test convergence by increasing the truncation order and decreasing \(\gamma\); do not interpret a sharp
         feature near a Rayleigh anomaly until it is stable under both tests.
+
+        st.markdown("*Personal project by Muhammad Sujak MK*")
         """
     )
 
