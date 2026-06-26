@@ -27,7 +27,7 @@ with st.expander("Model scope and numerical caution", expanded=True):
         Test convergence by increasing the truncation order and decreasing \(\gamma\); do not interpret a sharp
         feature near a Rayleigh anomaly until it is stable under both tests.
 
-        st.markdown("*Personal project by Muhammad Sujak MK*")
+        *Personal project by Muhammad Sujak MK*
         """
     )
 
