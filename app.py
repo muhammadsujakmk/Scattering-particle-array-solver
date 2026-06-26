@@ -24,7 +24,7 @@ with st.expander("Model scope and numerical caution", expanded=True):
         It does **not** yet provide a validated substrate-supported R/T model or an exact Ewald/Kambe implementation.
 
         The direct lattice sum is truncated and exponentially regularized by \(k \rightarrow k(1+i\gamma)\).
-        Test convergence by increasing the truncation order and decreasing \($\03b3$); do not interpret a sharp
+        Test convergence by increasing the truncation order and decreasing \(\u03b3); do not interpret a sharp
         feature near a Rayleigh anomaly until it is stable under both tests.
 
         *Personal project by Muhammad Sujak MK*
